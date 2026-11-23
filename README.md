@@ -1,5 +1,5 @@
-# CATegories
-Materials, data, and analysis for a study on the development of category-based word knowledge/ expertise in word meanings.
+# CaTWOgories
+Materials, data, and analysis for a study on the development of category-based typicality effects.
 
 [authors removed for peer review] (Stage 2 registered report under review). Becoming word meaning experts: Infants’ processing of familiar words in the context of typical and atypical exemplars. In-principle acceptance of Stage 1 RR at Child Development. Preprint: [redacted for peer review].
 
