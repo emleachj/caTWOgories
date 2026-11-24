@@ -1,0 +1,306 @@
+[
+  {
+    "id": "Order1A-distractorflip-trial-1",
+    "audio": "see_1_silence_the_fish_see_2",
+    "images": [
+      {
+        "id": "Order1A-distractorflip-trial-1-left",
+        "src": "betafish_600x600.jpg",
+        "position": "left"
+      },
+      {
+        "id": "Order1A-distractorflip-trial-1-right",
+        "src": "bluegill_600x600.jpg",
+        "position": "right"
+      }
+    ]
+  },
+  {
+    "id": "Order1A-distractorflip-trial-2",
+    "audio": "look_1_silence_the_dog_1",
+    "images": [
+      {
+        "id": "Order1A-distractorflip-trial-2-left",
+        "src": "arabianmau_600x600.jpg",
+        "position": "left"
+      },
+      {
+        "id": "Order1A-distractorflip-trial-2-right",
+        "src": "beagle_600x600.jpg",
+        "position": "right"
+      }
+    ]
+  },
+  {
+    "id": "Order1A-distractorflip-trial-3",
+    "audio": "find_1_silence_the_bird_1",
+    "images": [
+      {
+        "id": "Order1A-distractorflip-trial-3-left",
+        "src": "kookaburra_600x600.jpg",
+        "position": "left"
+      },
+      {
+        "id": "Order1A-distractorflip-trial-3-right",
+        "src": "betafish_600x600.jpg",
+        "position": "right"
+      }
+    ]
+  },
+  {
+    "id": "Order1A-distractorflip-trial-4",
+    "audio": "where_1_silence_the_cat_1",
+    "images": [
+      {
+        "id": "Order1A-distractorflip-trial-4-left",
+        "src": "sphynx_600x600.jpg",
+        "position": "left"
+      },
+      {
+        "id": "Order1A-distractorflip-trial-4-right",
+        "src": "arabianmau_600x600.jpg",
+        "position": "right"
+      }
+    ]
+  },
+  {
+    "id": "Order1A-distractorflip-trial-5",
+    "audio": "yellow001",
+    "images": [
+      {
+        "id": "Order1A-distractorflip-trial-5-left",
+        "src": "water_left.jpg",
+        "position": "left"
+      },
+      {
+        "id": "Order1A-distractorflip-trial-5-right",
+        "src": "water_right.jpg",
+        "position": "right"
+      }
+    ]
+  },
+  {
+    "id": "Order1A-distractorflip-trial-6",
+    "audio": "look_1_silence_the_bird_1",
+    "images": [
+      {
+        "id": "Order1A-distractorflip-trial-6-left",
+        "src": "sparrow_600x600.jpg",
+        "position": "left"
+      },
+      {
+        "id": "Order1A-distractorflip-trial-6-right",
+        "src": "kookaburra_600x600.jpg",
+        "position": "right"
+      }
+    ]
+  },
+  {
+    "id": "Order1A-distractorflip-trial-7",
+    "audio": "find_1_silence_the_fish_4",
+    "images": [
+      {
+        "id": "Order1A-distractorflip-trial-7-left",
+        "src": "sturgeon_600x600.jpg",
+        "position": "left"
+      },
+      {
+        "id": "Order1A-distractorflip-trial-7-right",
+        "src": "heron_600x600.jpg",
+        "position": "right"
+      }
+    ]
+  },
+  {
+    "id": "Order1A-distractorflip-trial-8",
+    "audio": "where_1_silence_the_dog_1",
+    "images": [
+      {
+        "id": "Order1A-distractorflip-trial-8-left",
+        "src": "beagle_600x600.jpg",
+        "position": "left"
+      },
+      {
+        "id": "Order1A-distractorflip-trial-8-right",
+        "src": "afghanhound_600x600.jpg",
+        "position": "right"
+      }
+    ]
+  },
+  {
+    "id": "Order1A-distractorflip-trial-9",
+    "audio": "see_1_silence_the_cat_see_3",
+    "images": [
+      {
+        "id": "Order1A-distractorflip-trial-9-left",
+        "src": "tabby_600x600.jpg",
+        "position": "left"
+      },
+      {
+        "id": "Order1A-distractorflip-trial-9-right",
+        "src": "germanshepherd_600x600.jpg",
+        "position": "right"
+      }
+    ]
+  },
+  {
+    "id": "Order1A-distractorflip-trial-10",
+    "audio": "acrossTheUniverse000",
+    "images": [
+      {
+        "id": "Order1A-distractorflip-trial-10-left",
+        "src": "balloons_left.jpg",
+        "position": "left"
+      },
+      {
+        "id": "Order1A-distractorflip-trial-10-right",
+        "src": "balloons_right.jpg",
+        "position": "right"
+      }
+    ]
+  },
+  {
+    "id": "Order1A-distractorflip-trial-11",
+    "audio": "see_1_silence_the_dog_see_1",
+    "images": [
+      {
+        "id": "Order1A-distractorflip-trial-11-left",
+        "src": "germanshepherd_600x600.jpg",
+        "position": "left"
+      },
+      {
+        "id": "Order1A-distractorflip-trial-11-right",
+        "src": "bassethound_600x600.jpg",
+        "position": "right"
+      }
+    ]
+  },
+  {
+    "id": "Order1A-distractorflip-trial-12",
+    "audio": "look_1_silence_the_fish_4",
+    "images": [
+      {
+        "id": "Order1A-distractorflip-trial-12-left",
+        "src": "clownfish_600x600.jpg",
+        "position": "left"
+      },
+      {
+        "id": "Order1A-distractorflip-trial-12-right",
+        "src": "sturgeon_600x600.jpg",
+        "position": "right"
+      }
+    ]
+  },
+  {
+    "id": "Order1A-distractorflip-trial-13",
+    "audio": "find_1_silence_the_cat_1",
+    "images": [
+      {
+        "id": "Order1A-distractorflip-trial-13-left",
+        "src": "bassethound_600x600.jpg",
+        "position": "left"
+      },
+      {
+        "id": "Order1A-distractorflip-trial-13-right",
+        "src": "cornishrex_600x600.jpg",
+        "position": "right"
+      }
+    ]
+  },
+  {
+    "id": "Order1A-distractorflip-trial-14",
+    "audio": "where_1_silence_the_bird_1",
+    "images": [
+      {
+        "id": "Order1A-distractorflip-trial-14-left",
+        "src": "bluegill_600x600.jpg",
+        "position": "left"
+      },
+      {
+        "id": "Order1A-distractorflip-trial-14-right",
+        "src": "sparrow_600x600.jpg",
+        "position": "right"
+      }
+    ]
+  },
+  {
+    "id": "Order1A-distractorflip-trial-15",
+    "audio": "yellow001",
+    "images": [
+      {
+        "id": "Order1A-distractorflip-trial-15-left",
+        "src": "mountain_left_600x600.jpg",
+        "position": "left"
+      },
+      {
+        "id": "Order1A-distractorflip-trial-15-right",
+        "src": "mountain_right_600x600.jpg",
+        "position": "right"
+      }
+    ]
+  },
+  {
+    "id": "Order1A-distractorflip-trial-16",
+    "audio": "look_1_silence_the_cat_1",
+    "images": [
+      {
+        "id": "Order1A-distractorflip-trial-16-left",
+        "src": "cornishrex_600x600.jpg",
+        "position": "left"
+      },
+      {
+        "id": "Order1A-distractorflip-trial-16-right",
+        "src": "tabby_600x600.jpg",
+        "position": "right"
+      }
+    ]
+  },
+  {
+    "id": "Order1A-distractorflip-trial-17",
+    "audio": "see_1_silence_the_bird_see_1",
+    "images": [
+      {
+        "id": "Order1A-distractorflip-trial-17-left",
+        "src": "heron_600x600.jpg",
+        "position": "left"
+      },
+      {
+        "id": "Order1A-distractorflip-trial-17-right",
+        "src": "robin_600x600.jpg",
+        "position": "right"
+      }
+    ]
+  },
+  {
+    "id": "Order1A-distractorflip-trial-18",
+    "audio": "find_1_silence_the_dog_1",
+    "images": [
+      {
+        "id": "Order1A-distractorflip-trial-18-left",
+        "src": "afghanhound_600x600.jpg",
+        "position": "left"
+      },
+      {
+        "id": "Order1A-distractorflip-trial-18-right",
+        "src": "sphynx_600x600.jpg",
+        "position": "right"
+      }
+    ]
+  },
+  {
+    "id": "Order1A-distractorflip-trial-19",
+    "audio": "where_1_silence_the_fish_4",
+    "images": [
+      {
+        "id": "Order1A-distractorflip-trial-19-left",
+        "src": "robin_600x600.jpg",
+        "position": "left"
+      },
+      {
+        "id": "Order1A-distractorflip-trial-19-right",
+        "src": "clownfish_600x600.jpg",
+        "position": "right"
+      }
+    ]
+  }
+]
